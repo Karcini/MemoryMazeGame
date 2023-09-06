@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<PlayerDatabase xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PlayerScoreRecords>
+    <PlayerEntry>
+      <playerName />
+      <playerTime>0</playerTime>
+      <playerScore>0</playerScore>
+    </PlayerEntry>
+    <PlayerEntry>
+      <playerName>Kenny</playerName>
+      <playerTime>237.16</playerTime>
+      <playerScore>16</playerScore>
+    </PlayerEntry>
+    <PlayerEntry>
+      <playerName>SecretCoin</playerName>
+      <playerTime>72.46</playerTime>
+      <playerScore>100</playerScore>
+    </PlayerEntry>
+  </PlayerScoreRecords>
+</PlayerDatabase>
